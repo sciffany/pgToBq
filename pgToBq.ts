@@ -2,8 +2,7 @@ const fs = require("fs");
 const { Pool } = require("pg");
 const copyTo = require("pg-copy-streams").to;
 const { BigQuery } = require("@google-cloud/bigquery");
-import { config } from "dotenv";
-config();
+require("dotenv").config();
 
 const projectId = process.env.BQPROJECT;
 const datasetId = process.env.BQDATASET;
