@@ -1,0 +1,32 @@
+Access Points
+Admins
+Break Records
+Clock Records
+Clock Requests
+Compensations
+Day Off Applications
+Day Offs
+Events
+Locations
+Notes
+Organisation Details
+Org User Detail
+Payrolls
+PayslipCpfs
+PayslipItems
+Payslips
+Roles
+Section Events
+Sections
+Section Users
+Section Weekends
+Shift Availability Requests
+Shifts
+ShiftSlot Records
+ShiftSlots
+Talenox Org
+Talenox User
+Tasks
+User Roles
+Weekends
+Weeks
